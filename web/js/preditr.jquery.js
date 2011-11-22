@@ -1,6 +1,9 @@
 /* 
- * To change this template, choose Tools | Templates
- * and open the template in the editor.
+ * preditr jquery plugin
  */
 
-
+(function($) {
+  $.preditr = function() {
+	/* set default options */
+  }
+})(jQuery);

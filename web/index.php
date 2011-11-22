@@ -5,5 +5,13 @@
  * and open the template in the editor.
  */
 
-?>
-Preditr
+?><!DOCTYPE html>
+<html>
+	<head>
+		<title>preditr web viewer</title>
+		
+	</head>
+	<body>
+		
+	</body>
+</html>
